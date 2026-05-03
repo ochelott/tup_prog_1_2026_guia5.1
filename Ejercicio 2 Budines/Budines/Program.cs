@@ -11,7 +11,7 @@ namespace Budines
         static void Main(string[] args)
         {
             int masa, masaso, budin, paquetes, cajas;
-            Console.WriteLine("Ingrese la cantidad de masa producida en (Gr): ");
+            Console.WriteLine("Ingrese la cantEjercicio 3 Patentesidad de masa producida en (Gr): ");
             masa = Convert.ToInt32(Console.ReadLine ());
             budin = (masa / 55);
             paquetes = (budin / 12);
